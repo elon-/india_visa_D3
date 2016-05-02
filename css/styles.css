@@ -1,0 +1,60 @@
+body{
+	font-family: 'Lora', serif;
+}
+
+h1{
+	
+}
+.introduction  {
+	font-family: 'Lora', serif;
+	font-size:25px;	
+	
+}
+
+span{
+	font-size:20px
+}
+.radio{
+	font-size: 20px;
+	left: 10%;
+}
+p{
+	text-align: justify;
+	font-family: 'Droid Sans', sans-serif;
+	
+}
+.line_chart_text{
+	font-size:17px;
+	font-family: 'Lora', serif;
+}
+
+
+.different_visa{
+	font-size:25px;
+}
+
+.top_country{
+	font-size:25px;
+}
+.y path{
+	fill:none;
+	stroke:black;
+	stroke-opacity=0.8;
+	
+}
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.y_label, 
+.axis text {
+
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.x.axis path {
+  display: none;
+}
